@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayprabhakarx&label=Profile%20views&color=0e75b6&style=flat" alt="vinayprabhakarx" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/vinayprabhakarx" target="blank"><img align="center" src="https://mastervinay.files.wordpress.com/2023/07/x.png" alt="vinayprabhakarx" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/vinayprabhakarx" target="blank"><img align="center" src="https://mastervinay.files.wordpress.com/2023/07/in.png" alt="in/vinayprabhakarx" height="40" width="40" /></a>
-<a href="https://fb.com/vinayprabhakarx" target="blank"><img align="center" src="https://mastervinay.files.wordpress.com/2023/07/fb-1.png" alt="vinayprabhakarx" height="40" width="40" /></a>
-<a href="https://instagram.com/vinayprabhakarx" target="blank"><img align="center" src="https://mastervinay.files.wordpress.com/2023/07/gram.png" alt="vinayprabhakarx" height="40" width="40" /></a>
-<a href="https://www.youtube.com/vinayprabhakarx" target="_blank"><img align="center" src="https://mastervinay.files.wordpress.com/2023/07/youtube.png" alt="vinayprabhakarx" height="40" width="40" /></a>
+<a href="https://x.com/vinayprabhakarx" target="blank"><img align="center" src="https://mastervinay.files.wordpress.com/2023/07/x.png" alt="X.com" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/vinayprabhakarx" target="blank"><img align="center" src="https://mastervinay.files.wordpress.com/2023/07/in.png" alt="LinkedIn" height="40" width="40" /></a>
+<a href="https://fb.com/vinayprabhakarx" target="blank"><img align="center" src="https://mastervinay.files.wordpress.com/2023/07/fb-1.png" alt="Facebook" height="40" width="40" /></a>
+<a href="https://instagram.com/vinayprabhakarx" target="blank"><img align="center" src="https://mastervinay.files.wordpress.com/2023/07/gram.png" alt="Instagram" height="40" width="40" /></a>
+<a href="https://www.youtube.com/vinayprabhakarx" target="_blank"><img align="center" src="https://mastervinay.files.wordpress.com/2023/07/youtube.png" alt="YouTube" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -24,7 +24,7 @@
 [![paypal](https://mastervinay.files.wordpress.com/2023/07/paypal.png)](https://www.paypal.com/paypalme/pkvinaykr)
 [![coffee](https://mastervinay.files.wordpress.com/2023/07/coffee.png)](https://pmny.in/hIfMVP0ES0VF)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayprabhakarx&show_icons=true&locale=en&layout=compact" alt="vinayprabhakarx" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayprabhakarx&layout=compact)
+![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayprabhakarx&show_icons=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayprabhakarx&show_icons=true&locale=en" alt="vinayprabhakarx" /></p>
 

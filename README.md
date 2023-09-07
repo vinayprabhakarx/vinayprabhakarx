@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/vinayprabhakarx" target="blank"><img align="center" src="https://mastervinay.files.wordpress.com/2023/07/in.png" alt="LinkedIn" height="40" width="40" /></a>
 <a href="https://fb.com/vinayprabhakarx" target="blank"><img align="center" src="https://mastervinay.files.wordpress.com/2023/07/fb-1.png" alt="Facebook" height="40" width="40" /></a>
 <a href="https://instagram.com/vinayprabhakarx" target="blank"><img align="center" src="https://mastervinay.files.wordpress.com/2023/07/gram.png" alt="Instagram" height="40" width="40" /></a>
-<a href="https://www.youtube.com/vinayprabhakarx" target="_blank"><img align="center" src="https://mastervinay.files.wordpress.com/2023/07/youtube.png" alt="YouTube" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@Vinay.Prabhakar" target="_blank"><img align="center" src="https://mastervinay.files.wordpress.com/2023/07/youtube.png" alt="YouTube" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

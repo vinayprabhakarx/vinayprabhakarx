@@ -26,7 +26,3 @@
 )
 [![UPI](https://mastervinay.wordpress.com/wp-content/uploads/2024/09/upi-1.png)](https://pages.razorpay.com/VinayPrabhakarX)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayprabhakarx&layout=compact)
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayprabhakarx&show_icons=true)
-
-

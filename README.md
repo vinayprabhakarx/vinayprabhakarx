@@ -34,8 +34,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinayprabhakar-in&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayprabhakar-in&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinayprabhakarx&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayprabhakarx&theme=tokyonight" />
 </p>
 
 ---

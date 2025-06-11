@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinay Prabhakar (VinayPrabhakarX)</h1>
+<h1 align="center">Hi 👋, I'm Vinay Prabhakar</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Machine+Learning+Engineer;&center=true&width=400&height=40">

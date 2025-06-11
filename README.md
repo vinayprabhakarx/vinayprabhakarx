@@ -1,25 +1,24 @@
 <h1 align="center">Hi 👋, I'm Vinay Prabhakar (VinayPrabhakarX)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Machine+Learning+Engineer;&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Machine+Learning+Engineer;&center=true&width=400&height=40">
 </p>
 
-<table>
+<table align="center">
   <tr>
-    <td>
-      <img alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+    <td align="center" width="50%">
+      <img alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="max-width: 300px;">
     </td>
-    <td>
+    <td width="50%">
       <p>
-      🎓 Pursuing Bachelor of Computer Applications at Indian Institute of Business Management (IIBM), Patna
-      <br><br>
-        💡  Web Developer | Machine Learning Engineer 
-        <br><br>
-         🌐 Tech Enthusiast | Linux Power User | Lifelong Learner
+        🎓 <b>BCA Student</b> at IIBM, Patna.<br><br>
+        💡 <b>Web Developer</b> | <b>Machine Learning Engineer</b><br><br>
+        🌐 <b>Tech Enthusiast</b> | <b>Linux Power User</b> | <b>Lifelong Learner</b>
       </p>
     </td>
   </tr>
 </table>
+
 
 ---
 

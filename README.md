@@ -63,7 +63,7 @@
 - Kaggle: [VinayPrabhakarX](https://kaggle.com/VinayPrabhakarX/)
 - X (Twitter): [VinayPrabhakarX](https://x.com/VinayPrabhakarX/)
 - Instagram: [VinayPrabhakarX](https://instagram.com/VinayPrabhakarX/)
-- Discord: [VinayPrabhakarX](https://discord.com/users/VinayPrabhakarX/)
+- Discord: [VinayPrabhakarX](https://discord.gg/79njMCfks2)
 - Email: [work.vinayprabhakar@gmail.com](mailto:work.vinayprabhakar@gmail.com)
 
 ---

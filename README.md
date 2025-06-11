@@ -64,7 +64,7 @@
 - X (Twitter): [VinayPrabhakarX](https://x.com/VinayPrabhakarX/)
 - Instagram: [VinayPrabhakarX](https://instagram.com/VinayPrabhakarX/)
 - Discord: [VinayPrabhakarX](https://discord.com/users/VinayPrabhakarX/)
-- Email: [work.vinayprabhakar@gmail.com](work.vinayprabhakar@gmail.com)
+- Email: [work.vinayprabhakar@gmail.com](mailto:work.vinayprabhakar@gmail.com)
 
 ---
 
